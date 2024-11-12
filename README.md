@@ -13,11 +13,11 @@ Os mundos devem ser gerados de forma aleatória, criando milhões de alternativa
 3. Pronto! Agora você já pode criar o seu primeiro mundo!
 
 ## Uso
-Para acessar a ==seed_do_seu_mundo== utilize o comando a seguir:
+Para acessar a seed do seu mundo utilize o comando a seguir:
 ```java
 /seed
 ```
-A ==destruição de um bloco== foi implementada através do seguinte código:
+A destruição de um bloco foi implementada através do seguinte código:
 ```java
 if(block.destroy()) block.erase();
 ```
