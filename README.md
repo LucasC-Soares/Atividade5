@@ -1,5 +1,6 @@
 # Documentação do Minecraft[^1]
 O projeto tem como objetivo criar um jogo 3D sandbox que tenha uma grande variedade de blocos e monstros, com um dragão para derrotar no final. O jogo deve ter três dimensões: o Overworld, o Nether e o The End. Cada uma dessas dimensões deve ter desafios e monstros específicos para o jogador enfrentar.
+
 Os mundos devem ser gerados de forma aleatória, criando milhões de alternativas diferentes e fazendo com que cada jogador tenha uma experiência diferente toda vez que cria um mundo novo. Os jogadores devem começar sem nenhum item e obtê-los a partir das formas mais variadas: batendo em árvores, derrotando monstros ou criando eles numa "crafting table".
 
  - [Instalação](https://github.com/LucasC-Soares/Atividade5/blob/main/README.md#Instalação)
